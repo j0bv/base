@@ -16,3 +16,6 @@
 [submodule "file-icons/bytesize-icons"]
 	path = file-icons/bytesize-icons
 	url = git@github.com:danklammer/bytesize-icons.git
+[submodule "autoflow-site"]
+	path = autoflow-site
+	url = https://github.com/j0bv/autoflow-site.git
